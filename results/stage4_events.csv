@@ -1,0 +1,5 @@
+time_s,type,device,confidence,delta_rms_A
+0.975,ON,E2_led_desk_lamp,0.524,0.401
+2.975,ON,E4_ac_fan,0.659,0.655
+5.05,OFF,E2_led_desk_lamp,0.585,0.403
+7.05,OFF,E4_ac_fan,0.691,0.651

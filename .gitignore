@@ -1,0 +1,8 @@
+# 生成的数据（体积大，用 run_pipeline.py 可随时重新生成）
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
